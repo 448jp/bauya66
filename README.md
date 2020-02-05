@@ -1,24 +1,5 @@
-# bauya
+# BAU-YA「モダンフロントエンドでJavaScript Vue.js 入門」
 
-## Project setup
-```
-npm install
-```
+2020年2月4日（火）に開催したBAU-YA「モダンフロントエンドでJavaScript Vue.js 入門」で利用したサンプルファイル一式です。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.street-academy.com/myclass/72986
